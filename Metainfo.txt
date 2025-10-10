@@ -1,0 +1,17 @@
+Name of Quantlet: 2025_HTW_ESG_Portfolio_Optimization
+
+Published in: 2025 HTW Summer School
+
+Description: ESG-constrained portfolio optimisation
+
+Submitted: 10 October 2025
+
+Keywords: 
+- ESG
+- Portfolio Optimization
+- Efficient Frontier
+- MIQP
+- FICO
+
+Author:  Siang-Li Jheng, Ibrar Hussain, Muhammad Farhandika, Sara Eghlidi, Giovanni Simone Riondato
+
