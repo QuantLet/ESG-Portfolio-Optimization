@@ -1,0 +1,56 @@
+Ticker,Category,ESG_Score
+CHTR,Communication Services,24.72
+CMCSA,Communication Services,23.09
+DIS,Communication Services,15.7
+EA,Communication Services,13.29
+GOOGL,Communication Services,24.22
+AMZN,Consumer Discretionary,30.61
+APTV,Consumer Discretionary,10.66
+AZO,Consumer Discretionary,11.02
+BBWI,Consumer Discretionary,28.3
+BBY,Consumer Discretionary,15.89
+ADM,Consumer Staples,31.79
+BG,Consumer Staples,32.92
+CAG,Consumer Staples,30.83
+CHD,Consumer Staples,19.86
+CL,Consumer Staples,26.17
+COP,Energy,33.91
+CVX,Energy,36.6
+EOG,Energy,34.16
+SLB,Energy,20.28
+XOM,Energy,41.6
+ACGL,Financials,22.46
+AFL,Financials,18.33
+AIG,Financials,24.18
+AIZ,Financials,24.11
+AJG,Financials,21.16
+A,Health Care,13.64
+ABBV,Health Care,29.93
+ABT,Health Care,24.83
+AMGN,Health Care,21.96
+BAX,Health Care,23.57
+AAL,Industrials,26.35
+ADP,Industrials,13.82
+ALLE,Industrials,21.78
+AME,Industrials,23.9
+AOS,Industrials,25.44
+AAPL,Information Technology,17.22
+ACN,Information Technology,9.84
+ADBE,Information Technology,13.08
+ADI,Information Technology,22.92
+ADSK,Information Technology,16.76
+ALB,Materials,26.57
+APD,Materials,12.26
+AVY,Materials,16.07
+BALL,Materials,12.1
+CE,Materials,26.13
+AMT,Real Estate,10.9
+ARE,Real Estate,13.89
+AVB,Real Estate,9.76
+BXP,Real Estate,12.51
+CBRE,Real Estate,7.98
+AEE,Utilities,27.17
+AEP,Utilities,26.14
+AES,Utilities,26.69
+ATO,Utilities,34.61
+AWK,Utilities,21.62
