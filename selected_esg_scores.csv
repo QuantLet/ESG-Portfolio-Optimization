@@ -1,56 +1,419 @@
 Ticker,Category,ESG_Score
-CHTR,Communication Services,24.72
-CMCSA,Communication Services,23.09
-DIS,Communication Services,15.7
-EA,Communication Services,13.29
-GOOGL,Communication Services,24.22
-AMZN,Consumer Discretionary,30.61
-APTV,Consumer Discretionary,10.66
-AZO,Consumer Discretionary,11.02
-BBWI,Consumer Discretionary,28.3
-BBY,Consumer Discretionary,15.89
-ADM,Consumer Staples,31.79
-BG,Consumer Staples,32.92
-CAG,Consumer Staples,30.83
-CHD,Consumer Staples,19.86
-CL,Consumer Staples,26.17
-COP,Energy,33.91
-CVX,Energy,36.6
-EOG,Energy,34.16
-SLB,Energy,20.28
-XOM,Energy,41.6
+A,Health Care,13.64
+AAL,Industrials,26.35
+AAPL,Information Technology,17.22
+ABBV,Health Care,29.93
+ABT,Health Care,24.83
 ACGL,Financials,22.46
+ACN,Information Technology,9.84
+ADBE,Information Technology,13.08
+ADI,Information Technology,22.92
+ADM,Consumer Staples,31.79
+ADP,Industrials,13.82
+ADSK,Information Technology,16.76
+AEE,Utilities,27.17
+AEP,Utilities,26.14
+AES,Utilities,26.69
 AFL,Financials,18.33
 AIG,Financials,24.18
 AIZ,Financials,24.11
 AJG,Financials,21.16
-A,Health Care,13.64
-ABBV,Health Care,29.93
-ABT,Health Care,24.83
-AMGN,Health Care,21.96
-BAX,Health Care,23.57
-AAL,Industrials,26.35
-ADP,Industrials,13.82
-ALLE,Industrials,21.78
-AME,Industrials,23.9
-AOS,Industrials,25.44
-AAPL,Information Technology,17.22
-ACN,Information Technology,9.84
-ADBE,Information Technology,13.08
-ADI,Information Technology,22.92
-ADSK,Information Technology,16.76
+AKAM,Information Technology,17.01
 ALB,Materials,26.57
-APD,Materials,12.26
-AVY,Materials,16.07
-BALL,Materials,12.1
-CE,Materials,26.13
+ALL,Financials,22.04
+ALLE,Industrials,21.78
+AMAT,Information Technology,12.74
+AME,Industrials,23.9
+AMGN,Health Care,21.96
+AMP,Financials,20.27
 AMT,Real Estate,10.9
+AMZN,Consumer Discretionary,30.61
+ANET,Information Technology,16.67
+AOS,Industrials,25.44
+APA,Energy,38.81
+APD,Materials,12.26
+APH,Information Technology,19.57
+APTV,Consumer Discretionary,10.66
 ARE,Real Estate,13.89
-AVB,Real Estate,9.76
-BXP,Real Estate,12.51
-CBRE,Real Estate,7.98
-AEE,Utilities,27.17
-AEP,Utilities,26.14
-AES,Utilities,26.69
 ATO,Utilities,34.61
+AVB,Real Estate,9.76
+AVGO,Information Technology,19.98
+AVY,Materials,16.07
 AWK,Utilities,21.62
+AXP,Financials,18.61
+AZO,Consumer Discretionary,11.02
+BA,Industrials,39.6
+BAC,Financials,28.3
+BALL,Materials,12.1
+BAX,Health Care,23.57
+BBWI,Consumer Discretionary,28.3
+BBY,Consumer Discretionary,15.89
+BDX,Health Care,23.82
+BEN,Financials,18.3
+BG,Consumer Staples,32.92
+BIIB,Health Care,22.24
+BIO,Health Care,17.4
+BK,Financials,20.93
+BKNG,Consumer Discretionary,19.23
+BLK,Financials,18.25
+BMY,Health Care,22.74
+BR,Industrials,16.63
+BRO,Financials,20.48
+BSX,Health Care,23.11
+BWA,Consumer Discretionary,12.59
+BX,Financials,23.39
+BXP,Real Estate,12.51
+C,Financials,29.24
+CAG,Consumer Staples,30.83
+CAH,Health Care,14.86
+CAT,Industrials,36.17
+CB,Financials,23.6
+CBOE,Financials,20.95
+CBRE,Real Estate,7.98
+CCI,Real Estate,10.1
+CCL,Consumer Discretionary,24.49
+CDNS,Information Technology,12.02
+CDW,Information Technology,9.21
+CE,Materials,26.13
+CF,Materials,29.33
+CFG,Financials,23.54
+CHD,Consumer Staples,19.86
+CHRW,Industrials,19.32
+CHTR,Communication Services,24.72
+CI,Health Care,11.65
+CINF,Financials,25.61
+CL,Consumer Staples,26.17
+CLX,Consumer Staples,21.63
+CMCSA,Communication Services,23.09
+CME,Financials,17.8
+CMG,Consumer Discretionary,20.66
+CMI,Industrials,19.3
+CMS,Utilities,21.7
+CNC,Health Care,19.89
+CNP,Utilities,28.73
+COF,Financials,22.5
+COO,Health Care,17.47
+COP,Energy,33.91
+COR,Health Care,12.75
+COST,Consumer Staples,23.29
+CPB,Consumer Staples,23.5
+CPRT,Industrials,16.03
+CPT,Real Estate,16.09
+CRM,Information Technology,14.88
+CSCO,Information Technology,13.87
+CSGP,Real Estate,21.91
+CSX,Industrials,21.91
+CTAS,Industrials,18.08
+CTRA,Energy,36.07
+CTSH,Information Technology,14.66
+CVS,Health Care,21.97
+CVX,Energy,36.6
+D,Utilities,26.4
+DAL,Industrials,30.26
+DD,Materials,28.6
+DE,Industrials,19.95
+DG,Consumer Staples,17.59
+DGX,Health Care,21.21
+DHI,Consumer Discretionary,21.03
+DHR,Health Care,11.86
+DIS,Communication Services,15.7
+DLR,Real Estate,12.61
+DLTR,Consumer Staples,20.08
+DOV,Industrials,25.88
+DPZ,Consumer Discretionary,29.19
+DRI,Consumer Discretionary,27.47
+DTE,Utilities,29.8
+DUK,Utilities,27.01
+DVA,Health Care,22.56
+DVN,Energy,33.76
+DXCM,Health Care,24.05
+EA,Communication Services,13.29
+EBAY,Consumer Discretionary,17.6
+ECL,Materials,19.86
+ED,Utilities,23.81
+EFX,Industrials,23.16
+EG,Financials,17.96
+EIX,Utilities,27.51
+EL,Consumer Staples,25.48
+ELV,Health Care,11.38
+EMN,Materials,25.27
+EMR,Industrials,28.36
+EOG,Energy,34.16
+EQIX,Real Estate,13.88
+EQR,Real Estate,11.91
+EQT,Energy,35.69
+ES,Utilities,18.62
+ESS,Real Estate,12.44
+ETN,Industrials,17.94
+ETR,Utilities,26.67
+EW,Health Care,18.57
+EXC,Utilities,22.86
+EXPD,Industrials,16.56
+EXPE,Consumer Discretionary,27.65
+EXR,Real Estate,15.2
+F,Consumer Discretionary,22.35
+FAST,Industrials,24.67
+FCX,Materials,31.61
+FDS,Financials,18.37
+FDX,Industrials,19.68
+FE,Utilities,25.56
+FFIV,Information Technology,17.15
+FIS,Financials,17.48
+FITB,Financials,16.84
+FMC,Materials,30.73
+FRT,Real Estate,12.42
+FTNT,Information Technology,18.9
+FTV,Industrials,34.76
+GD,Industrials,35.19
+GE,Industrials,40.55
+GEN,Information Technology,16.94
+GILD,Health Care,22.97
+GIS,Consumer Staples,21.13
+GL,Financials,20.35
+GLW,Information Technology,16.48
+GM,Consumer Discretionary,28.5
+GOOGL,Communication Services,24.22
+GPC,Consumer Discretionary,13.66
+GPN,Financials,20.87
+GRMN,Consumer Discretionary,20.66
+GS,Financials,25.45
+GWW,Industrials,16.0
+HAL,Energy,25.63
+HAS,Consumer Discretionary,7.08
+HBAN,Financials,21.84
+HCA,Health Care,28.84
+HD,Consumer Discretionary,12.64
+HIG,Financials,16.63
+HLT,Consumer Discretionary,17.56
+HOLX,Health Care,25.0
+HON,Industrials,28.62
+HPE,Information Technology,10.69
+HPQ,Information Technology,11.26
+HRL,Consumer Staples,30.0
+HSIC,Health Care,13.95
+HST,Real Estate,13.35
+HSY,Consumer Staples,26.05
+HUBB,Industrials,19.6
+HUM,Health Care,22.47
+IBM,Information Technology,14.14
+ICE,Financials,19.78
+IDXX,Health Care,18.66
+IEX,Industrials,29.34
+IFF,Materials,22.69
+INCY,Health Care,24.76
+INTC,Information Technology,18.87
+INTU,Information Technology,16.41
+IP,Materials,24.47
+IPG,Communication Services,10.32
+IQV,Health Care,19.14
+IRM,Real Estate,14.5
+ISRG,Health Care,21.07
+IT,Information Technology,18.93
+ITW,Industrials,25.29
+IVZ,Financials,22.79
+J,Industrials,22.37
+JBHT,Industrials,14.82
+JCI,Industrials,14.43
+JKHY,Financials,18.66
+JNJ,Health Care,23.98
+JPM,Financials,29.26
+K,Consumer Staples,28.37
+KEY,Financials,21.42
+KEYS,Information Technology,7.6
+KHC,Consumer Staples,33.7
+KIM,Real Estate,10.9
+KLAC,Information Technology,17.19
+KMB,Consumer Staples,28.48
+KMI,Energy,18.96
+KMX,Consumer Discretionary,12.1
+KO,Consumer Staples,21.63
+KR,Consumer Staples,21.27
+L,Financials,16.38
+LDOS,Industrials,17.65
+LEN,Consumer Discretionary,25.36
+LH,Health Care,19.74
+LKQ,Consumer Discretionary,11.07
+LLY,Health Care,24.28
+LMT,Industrials,30.18
+LNT,Utilities,21.36
+LOW,Consumer Discretionary,11.78
+LRCX,Information Technology,13.61
+LULU,Consumer Discretionary,16.94
+LUV,Industrials,30.67
+LVS,Consumer Discretionary,18.69
+LYB,Materials,20.69
+MA,Financials,17.07
+MAA,Real Estate,13.09
+MAR,Consumer Discretionary,21.43
+MAS,Industrials,22.19
+MCD,Consumer Discretionary,25.95
+MCHP,Information Technology,31.82
+MCK,Health Care,15.23
+MCO,Financials,15.82
+MDLZ,Consumer Staples,22.02
+MDT,Health Care,22.77
+MET,Financials,16.43
+META,Communication Services,34.08
+MGM,Consumer Discretionary,24.76
+MHK,Consumer Discretionary,14.14
+MKC,Consumer Staples,26.07
+MLM,Materials,30.12
+MMC,Financials,21.07
+MMM,Industrials,37.35
+MNST,Consumer Staples,29.23
+MO,Consumer Staples,31.32
+MOS,Materials,33.52
+MPC,Energy,30.49
+MRK,Health Care,21.39
+MS,Financials,24.58
+MSCI,Financials,16.27
+MSFT,Information Technology,15.06
+MSI,Information Technology,13.13
+MTB,Financials,26.53
+MTD,Health Care,13.1
+MU,Information Technology,18.18
+NCLH,Consumer Discretionary,25.94
+NDAQ,Financials,13.09
+NDSN,Industrials,24.89
+NEE,Utilities,23.27
+NEM,Materials,20.52
+NFLX,Communication Services,16.41
+NI,Utilities,26.02
+NKE,Consumer Discretionary,19.61
+NOC,Industrials,27.53
+NOW,Information Technology,16.59
+NRG,Utilities,31.97
+NSC,Industrials,23.92
+NTAP,Information Technology,15.43
+NTRS,Financials,23.86
+NUE,Materials,32.82
+NVDA,Information Technology,13.59
+NVR,Consumer Discretionary,20.27
+NWSA,Communication Services,11.47
+NXPI,Information Technology,19.84
+O,Real Estate,15.47
+OKE,Energy,25.15
+OMC,Communication Services,16.28
+ON,Information Technology,22.43
+ORCL,Information Technology,13.89
+ORLY,Consumer Discretionary,12.05
+OXY,Energy,41.66
+PANW,Information Technology,13.92
+PAYX,Industrials,16.73
+PCAR,Industrials,27.64
+PCG,Utilities,30.38
+PEG,Utilities,27.23
+PEP,Consumer Staples,22.06
+PFE,Health Care,24.59
+PFG,Financials,14.19
+PG,Consumer Staples,28.57
+PGR,Financials,20.02
+PH,Industrials,29.48
+PHM,Consumer Discretionary,21.42
+PKG,Materials,18.64
+PLD,Real Estate,10.27
+PM,Consumer Staples,28.45
+PNC,Financials,26.07
+PNR,Industrials,22.06
+PNW,Utilities,30.79
+PPG,Materials,25.21
+PPL,Utilities,31.32
+PRU,Financials,19.91
+PSA,Real Estate,13.05
+PSX,Energy,35.43
+PTC,Information Technology,18.9
+PWR,Industrials,36.91
+PYPL,Financials,17.77
+QCOM,Information Technology,15.39
+QRVO,Information Technology,28.52
+RCL,Consumer Discretionary,20.71
+REG,Real Estate,11.71
+REGN,Health Care,18.04
+RF,Financials,16.85
+RJF,Financials,27.02
+RL,Consumer Discretionary,14.62
+RMD,Health Care,26.39
+ROK,Industrials,17.67
+ROL,Industrials,19.31
+ROP,Information Technology,20.44
+ROST,Consumer Discretionary,18.23
+RSG,Industrials,20.91
+RVTY,Health Care,16.7
+SBAC,Real Estate,11.58
+SBUX,Consumer Discretionary,24.67
+SCHW,Financials,23.28
+SHW,Materials,29.35
+SJM,Consumer Staples,30.45
+SLB,Energy,20.28
+SNA,Industrials,30.53
+SNPS,Information Technology,14.42
+SO,Utilities,32.98
+SPG,Real Estate,13.98
+SPGI,Financials,13.04
+SRE,Utilities,23.59
+STLD,Materials,32.98
+STT,Financials,24.08
+STX,Information Technology,10.66
+STZ,Consumer Staples,24.66
+SWK,Industrials,25.31
+SWKS,Information Technology,27.95
+SYF,Financials,17.28
+SYK,Health Care,28.26
+SYY,Consumer Staples,15.95
+T,Communication Services,23.91
+TAP,Consumer Staples,21.37
+TDG,Industrials,38.72
+TEL,Information Technology,14.8
+TER,Information Technology,17.03
+TFX,Health Care,29.63
+TGT,Consumer Staples,14.35
+TJX,Consumer Discretionary,14.38
+TMO,Health Care,12.81
+TMUS,Communication Services,24.63
+TPR,Consumer Discretionary,14.84
+TRGP,Energy,33.21
+TRMB,Information Technology,12.41
+TROW,Financials,16.91
+TRV,Financials,20.33
+TSCO,Consumer Discretionary,16.1
+TSLA,Consumer Discretionary,25.23
+TSN,Consumer Staples,35.92
+TT,Industrials,15.2
+TXN,Information Technology,20.65
+TXT,Industrials,33.61
+UAL,Industrials,28.61
+UDR,Real Estate,13.92
+UHS,Health Care,32.98
+ULTA,Consumer Discretionary,15.61
+UNH,Health Care,15.3
+UNP,Industrials,23.45
+UPS,Industrials,18.57
+URI,Industrials,16.86
+USB,Financials,30.26
+V,Financials,16.68
+VLO,Energy,32.56
+VMC,Materials,29.28
+VRSK,Industrials,17.53
+VRSN,Information Technology,21.3
+VRTX,Health Care,22.72
+VTR,Real Estate,12.86
+VZ,Communication Services,18.73
+WAB,Industrials,23.33
+WAT,Health Care,14.62
+WDC,Information Technology,11.43
+WEC,Utilities,27.46
+WELL,Real Estate,13.23
+WFC,Financials,36.24
+WM,Industrials,16.65
+WMB,Energy,21.82
+WMT,Consumer Staples,25.26
+WRB,Financials,21.83
+WTW,Financials,18.66
+WY,Real Estate,16.68
+WYNN,Consumer Discretionary,25.7
+XEL,Utilities,26.45
+XOM,Energy,41.6
+XYL,Industrials,18.13
+YUM,Consumer Discretionary,20.1
+ZBH,Health Care,26.02
+ZTS,Health Care,18.77
